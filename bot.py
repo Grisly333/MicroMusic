@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 import asyncio
 from config import TOKEN
-TOKEN = "8963655932:AAFx0Rrq7i7VtzvRq-M0lZO4_CTD92hL594"
+#TOKEN = "8963655932:AAFx0Rrq7i7VtzvRq-M0lZO4_CTD92hL594"
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 # Когда пользователь пишет /start
